@@ -1,0 +1,229 @@
+{
+   "flags":[
+      {
+         "name":"County Limerick",
+         "colours":[
+            "#009900",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Roscommon",
+         "colours":[
+            "#0000ff",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Tipperary",
+         "colours":[
+            "#0000ff",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Leitrim",
+         "colours":[
+            "#009900",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Waterford",
+         "colours":[
+            "#ffffff",
+            "#0000ff"
+         ]
+      },
+      {
+         "name":"County Offaly",
+         "colours":[
+            "#009900",
+            "#ffffff",
+            "#fecd06"
+         ]
+      },
+      {
+         "name":"County Longford",
+         "colours":[
+            "#0000ff",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Westmeath",
+         "colours":[
+            "#990000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Laois",
+         "colours":[
+            "#0000ff",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Kilkenny",
+         "colours":[
+            "#000000",
+            "#ffc125"
+         ]
+      },
+      {
+         "name":"County Londonderry",
+         "colours":[
+            "#ff0000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Meath",
+         "colours":[
+            "#009900",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Kildare",
+         "colours":[
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Carlow",
+         "colours":[
+            "#009900",
+            "#ff0000",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Armagh",
+         "colours":[
+            "#ff8800",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Wicklow",
+         "colours":[
+            "#0000ff",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Antrim",
+         "colours":[
+            "#ffff00",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Kerry",
+         "colours":[
+            "#009900",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Cork",
+         "colours":[
+            "#ff0000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Clare",
+         "colours":[
+            "#ffff00",
+            "#0000ff"
+         ]
+      },
+      {
+         "name":"County Sligo",
+         "colours":[
+            "#000000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Cavan",
+         "colours":[
+            "#0000ff",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Tyrone",
+         "colours":[
+            "#ffffff",
+            "#ff0000"
+         ]
+      },
+      {
+         "name":"County Monaghan",
+         "colours":[
+            "#ffffff",
+            "#0000ff"
+         ]
+      },
+      {
+         "name":"County Wexford",
+         "colours":[
+            "#660099",
+            "#ffff00"
+         ]
+      },
+      {
+         "name":"County Louth",
+         "colours":[
+            "#ff0000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Dublin",
+         "colours":[
+            "#88b8fd",
+            "#000080"
+         ]
+      },
+      {
+         "name":"County Down",
+         "colours":[
+            "#ff0000",
+            "#000000"
+         ]
+      },
+      {
+         "name":"County Galway",
+         "colours":[
+            "#990000",
+            "#ffffff"
+         ]
+      },
+      {
+         "name":"County Mayo",
+         "colours":[
+            "#009900",
+            "#ff0000"
+         ]
+      },
+      {
+         "name":"County Donegal",
+         "colours":[
+            "#ffff00",
+            "#009900"
+         ]
+      },
+      {
+         "name":"County Fermanagh",
+         "colours":[
+            "#009900",
+            "#ffffff"
+         ]
+      }
+   ]
+}

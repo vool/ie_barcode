@@ -1,0 +1,30 @@
+{
+   "name":"ie-barcode",
+   "description":"An app that generates an Irish version of OMA/AMO's EU Barcode flag based on a geojson file of the county borders. Can also be used to generate flag for anywhere else just provide the boundaries and colours of the constituent flags !",
+   "version":"0.1.0",
+   "author":"Keith O'Faolain <keith@vool.ie>",
+   "main":"app.js",
+   "repository":{
+      "type":"git",
+      "url":"https://github.com:vool/ie_barcode"
+   },
+   "bugs":{
+      "url":"https://github.com/vool/ie_barcode/issues"
+   },
+   "keywords":[
+      "flag",
+      "OMA",
+      "AMO",
+      "Ireland",
+      "EU",
+      "Rem Koolhaas"
+   ],
+   "dependencies":{
+      "geojson-extent":"^0.3.1",
+      "jsdom":"^3.1.2",
+      "read-multiple-files":"^1.1.0"
+   },
+   "devDependencies":{
+
+   }
+}
