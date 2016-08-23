@@ -134,8 +134,8 @@ function drawFlag(areas) {
             // generate svg
             var svg = window.d3.select("body")
                 .append("svg")
-                .attr("width", config.flag[0])
-                .attr("height", config.flag[1]);
+                .attr("width", config.flag.size[0])
+                .attr("height", config.flag.size[1]);
 
             var childFlagWidth = config.flag.size[0] / areas.length;
 
