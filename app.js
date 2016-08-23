@@ -79,11 +79,11 @@ fs.open('data/' + config.name + '.geojson', 'r', function(err, fd) {
                         for (var i = 0; i < geojson.features.length; i++) {
 
                             var flag = __.find(flags.flags, {
-                                name: geojson.features[i].properties.NAME
+                                name: geojson.features[i].properties.name
                             });
 
                             var area = {
-                                "name": geojson.features[i].properties.NAME,
+                                "name": geojson.features[i].properties.name,
                                 "lng": geojsonExtent(geojson.features[i])[0], // get the most westerly point                  
                                 "colours": flag.colours
 
@@ -202,7 +202,7 @@ function generateColours() {
         for (var f = 0; f < geojson.features.length; f++) {
 
             var flag = {
-                "name": geojson.features[f].properties.NAME,
+                "name": geojson.features[f].properties.name,
                 "colours": []
             }
 
