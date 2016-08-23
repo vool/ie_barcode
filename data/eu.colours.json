@@ -1,0 +1,116 @@
+{
+   "flags": [
+      {
+         "name": "Denmark",
+         "colours": ["#C60C30", "#C60C30", "#C60C30", "#FFFFFF", "#C60C30", "#C60C30", "#C60C30", "#C60C30", "#C60C30" ]
+      },
+      {
+         "name": "Germany",
+         "colours": ["#DD0000", "#000000", "#FFCE00"]
+      },
+      {
+         "name": "France",
+         "colours": ["#002395", "#FFFFFF", "#ED2939"]
+      },
+      {
+         "name": "Ireland",
+         "colours": ["#169B62", "#FFFFFF", "#FF883E"]
+      },
+      {
+         "name": "Croatia",
+         "colours": ["#FF0000", "#FFFFFF", "#171796"]
+      },
+      {
+         "name": "United Kingdom",
+         "colours": ["#003399", "#003399", "#003399", "#003399", "#FFFFFF", "#CC0000", "#CC0000", "#FFFFFF", "#003399", "#003399", "#003399", "#003399" ]
+      },
+      {
+         "name": "Estonia",
+         "colours": ["#0072CE", "#000000", "#fff"]
+      },
+      {
+         "name": "Cyprus",
+         "colours": ["#CC6600", "#fff", "#006651" ]
+      },
+      {
+         "name": "Finland",
+         "colours": ["#fff", "#fff", "#fff", "#fff", "#002f6c", "#002f6c", "#002f6c", "#fff", "#fff", "#fff", "#fff"]
+      },
+      {
+         "name": "Greece",
+         "colours": ["#0D5EAF", "#0D5EAF", "#FFFFFF",  "#0D5EAF", "#0D5EAF", "#FFFFFF", "#0D5EAF", "#FFFFFF", "#0D5EAF"]
+      },
+      {
+         "name": "Sweden",
+         "colours": ["#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#FECC00", "#FECC00", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7", "#006AA7"]
+      },
+      {
+         "name": "Netherlands",
+         "colours": ["#AE1C28", "#FFFFFF", "#21468B"]
+      },
+      {
+         "name": "Spain",
+         "colours": ["#AA151B", "#F1BF00", "#F1BF00", "#AA151B"]
+      },
+      {
+         "name": "Lithuania",
+         "colours": ["#fdb913",  "#006a44", "#c1272d"]
+      },
+      {
+         "name": "Italy",
+         "colours": ["#009246", "#fff", "#CE2B37"]
+      },
+      {
+         "name": "Malta",
+         "colours": ["#fff", "#CF142B"]
+      },
+      {
+         "name": "Poland",
+         "colours": ["#fff", "#DC143C"]
+      },
+      {
+         "name": "Slovakia",
+         "colours": ["#fff", "#0B4EA2", "#EE1C25"]
+      },
+      {
+         "name": "Austria",
+         "colours": ["#ED2939","#fff", "#ED2939"]
+      },
+      {
+         "name": "Hungary",
+         "colours": ["#CD2A3E", "#fff", "#436F4D"]
+      },
+      {
+         "name": "Luxembourg",
+         "colours": ["#ED2939", "#fff", "#00A1DE"]
+      },
+      {
+         "name": "Slovenia",
+         "colours": ["#fff", "#005DA4", "#ED1C24"]
+      },
+      {
+         "name": "Belgium",
+         "colours": ["#000000", "#FFE936", "#FF0F21"]
+      },
+      {
+         "name": "Bulgaria",
+         "colours": ["#fff", "#00966E", "#D62612"]
+      },
+      {
+         "name": "Romania",
+         "colours": ["#002B7F", "#FCD116", "#CE1126"]
+      },
+      {
+         "name": "Latvia",
+         "colours": ["#9E1B34", "#9E1B34", "#fff", "#9E1B34", "#9E1B34"]
+      },
+      {
+         "name": "Czech Republic",
+         "colours": ["#FFFFFF", "#11457E", "#D7141A"]
+      },
+      {
+         "name": "Portugal",
+         "colours": ["#006600", "#006600", "#FF0000", "#FF0000", "#FF0000"]
+      }
+   ]
+}

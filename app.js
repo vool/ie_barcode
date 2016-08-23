@@ -21,9 +21,9 @@ var geojsonExtent = require('geojson-extent'),
 
 var config = {
 
-    "name": "ireland",
+    "name": "eu",
     "flag": {
-        "size": [1000, 500] // "size": [3200, 1600]
+        "size": [1600, 1066] // "size": [3200, 1600]
     }
 
 };
